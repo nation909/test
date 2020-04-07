@@ -8,5 +8,10 @@ test파일2
 
 rebase
 
-
 testBranch
+
+test
+
+
+testBranch add
+amend commit2
